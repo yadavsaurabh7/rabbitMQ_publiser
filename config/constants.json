@@ -1,0 +1,19 @@
+{
+    "AUTH": "auth",
+    "Enterprise_Account_Configuration": "Enterprise Account Configuration",
+    "Schedule of Exclusive Classes For Enterprise": "",
+    "License Expiry ": "",
+    "Weekly Check-in ": "",
+    "Public Classes Schedules": "",
+    "Check for Updates": "",
+    "Check for Cancellation": "",
+    "FIREBASE_DB_URL": "",
+    "emailQueue" : "emailQueue",
+    "bulkEmailQueue" : "bulkEmailQueue",
+    "pushNotificationQueue" : "pushNotificationQueue",
+    "bulkPushNotificationQueue" : "bulkPushNotificationQueue",
+    "DATABASE_URL" : "",
+    "DATABASE_URL_NEW_CMS" : "",
+    "SECRET" : "hjasdoio9aldskknoli"
+
+}
